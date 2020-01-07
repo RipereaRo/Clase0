@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Lara Ríos Molano lrios@edu.tecnocampus.cat
 Gemma Bachs prim gbachs@edu.tecnocampus.cat
 Carles Álvarez Labari calvarezl@edu.tecnocampus.cat
 Sergi Tamayo Los Arcos stamyoi@edu.tecnocampus.cat
+=======
+Hello World!
+>>>>>>> parent of b44e080... Update Llista.txt
 =======
 Hello World!
 >>>>>>> parent of b44e080... Update Llista.txt
